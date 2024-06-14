@@ -18,25 +18,27 @@ body{
     border-radius: 20px;
     padding: 20px;
     text-align: center;
-    width: 200px;
+    width: 300px;
     margin-bottom: 3rem;
-    
     font-family: "Outfit", sans-serif;
-}
-.qr div{
-    width: 100%;
 }
 .qr img{
     width: 100%;
+}
+.content{
+    padding: 5px;
+    padding: 10px;
 }
 p{
     color: var(--Dark-bluey);
     font-weight: 700;
     margin-bottom: 8px;
+    font-size: 23px;
+    margin-top: 12px;
 }
 span{
     color: var(--Grayish-blue);
-    font-size: 12px;
-    font-weight: 700;
+    font-size: 16px;
+    font-weight: 400;
     line-height: 1.1;
 }
